@@ -1,0 +1,12 @@
+%YAML:1.0
+
+dataset_dir: /home/eulring/Slam/DataSet/desk2/
+
+# camera intrinsics
+camera_cx: 325.1
+camera_cy: 249.7
+camera_fx: 520.9
+camera_fy: 521
+
+# visual_odometry parameter
+max_disparity: 20
